@@ -6,6 +6,8 @@ body{
 .button-color{
     background: linear-gradient(180deg, #A4BC46 0%, #85A019 100%);
     border-radius: 10px;
+    color: white;
+    padding: 10px 29px;
 }
 
 .profile{
@@ -17,6 +19,18 @@ margin: 0 auto ;
 .orange-highlight{
     color: #FABE4C;
 }
+.blue-highlight{
+    color: #363958;
+}
 .bg-color{
     background-color: #FFFBF0;
+}
+
+.fashion-footer{
+    border: 0;
+    background-color: white;
+}
+
+.radius{
+    border-radius: 20px;
 }
