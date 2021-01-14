@@ -35,17 +35,13 @@ margin: 0 auto ;
     border-radius: 20px;
 }
 .catagories img{
-    width: 100%;
-    
+   width: 50%;
+
 }
 .radius{
-    border-radius: 20px;
+    border-radius: 40px;
 }
 
 .last-photo img{
     width: 100%;
-
-}
-.cc{
-    border: 0;
 }
