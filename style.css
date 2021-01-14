@@ -45,3 +45,9 @@ margin: 0 auto ;
 .last-photo img{
     width: 100%;
 }
+.txt-deco{
+    text-decoration: none;
+}
+.txt-size{
+    font-size: 23px;
+}
